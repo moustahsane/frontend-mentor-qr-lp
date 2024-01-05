@@ -35,7 +35,7 @@ html {
 }
 
 .card-conrainer > img { 
-    border-radius: 5px;
+    border-radius: 8px;
 }
 .card-conrainer > h3 { 
     margin-top: 1rem;
